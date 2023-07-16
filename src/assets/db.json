@@ -1,0 +1,636 @@
+{
+    "houses": [
+      {
+        "house": "202e",
+        "coordinates": [59.226524, 10.3656],
+        "id": "1"
+      },
+      {
+        "house": "203a",
+        "coordinates": [59.226597, 10.36567],
+        "id": "2"
+      },
+      {
+        "house": "24",
+        "coordinates": [59.228252, 10.36191],
+        "id": "3"
+      },
+      {
+        "house": "22",
+        "coordinates": [59.228554, 10.36206],
+        "id": "4"
+      },
+      {
+        "house": "20",
+        "coordinates": [59.229086, 10.362189],
+        "id": "5"
+      },
+      {
+        "house": "18",
+        "coordinates": [59.229448, 10.362232],
+        "id": "6"
+      },
+      {
+        "house": "16",
+        "coordinates": [59.229882, 10.361073],
+        "id": "7"
+      },
+      {
+        "house": "14",
+        "coordinates": [59.230096, 10.361749],
+        "id": "8"
+      },
+      {
+        "house": "12",
+        "coordinates": [59.230475, 10.361792],
+        "id": "9"
+      },
+      {
+        "house": "10",
+        "coordinates": [59.230590, 10.362371],
+        "id": "10"
+      },
+      {
+        "house": "8",
+        "coordinates": [59.231304, 10.359603],
+        "id": "11"
+      },
+      {
+        "house": "6",
+        "coordinates": [59.230881, 10.360397],
+        "id": "12"
+      },
+      {
+        "house": "4",
+        "coordinates": [59.231122, 10.361041],
+        "id": "13"
+      },
+      {
+        "house": "2",
+        "coordinates": [59.231452, 10.361985],
+        "id": "14"
+      },
+      {
+        "house": "1",
+        "coordinates": [59.231111, 10.364152],
+        "id": "15"
+      },
+      {
+        "house": "3",
+        "coordinates": [59.230678, 10.364109],
+        "id": "16"
+      },
+      {
+        "house": "5",
+        "coordinates": [59.230184, 10.364002],
+        "id": "17"
+      },
+      {
+        "house": "7",
+        "coordinates": [59.229904, 10.363723],
+        "id": "18"
+      },
+      {
+        "house": "503c",
+        "coordinates": [59.229535, 10.367123],
+        "id": "19"
+      },
+      {
+        "house": "600b",
+        "coordinates": [59.230062, 10.367127],
+        "id": "20"
+      },
+      {
+        "house": "603a",
+        "coordinates": [59.230145, 10.367477],
+        "id": "21"
+      },
+      {
+        "house": "608b",
+        "coordinates": [59.229982, 10.367685],
+        "id": "22"
+      },
+      {
+        "house": "609a",
+        "coordinates": [59.230038, 10.368718],
+        "id": "23"
+      },
+      {
+        "house": "609e",
+        "coordinates": [59.230131, 10.368782],
+        "id": "24"
+      },
+      {
+        "house": "612b",
+        "coordinates": [59.229833, 10.368895],
+        "id": "25"
+      },
+      {
+        "house": "Regattaveien 123",
+        "coordinates": [59.2301507, 10.3552182],
+        "id": "26"
+      },
+      {
+        "house": "Solåsen 3",
+        "coordinates": [59.2258, 10.36325],
+        "id": "27"
+      },
+      {
+        "house": "Solåsen 5",
+        "coordinates": [59.2261548, 10.3635019],
+        "id": "28"
+      },
+      {
+        "house": "Solåsen 7",
+        "coordinates": [59.2265, 10.3637],
+        "id": "29"
+      }
+    ],
+    "people": [
+      {
+        "name": "Opitz, Manuel",
+        "house": 4,
+        "suite": 305
+      },
+      {
+        "name": "Baur, Markus",
+        "house": 5,
+        "suite": 307
+      },
+      {
+        "name": "Sokac, Lischa",
+        "house": "Solåsen 3",
+        "suite": 103
+      },
+      {
+        "name": "Sokac, Sasa",
+        "house": "Solåsen 3",
+        "suite": 103
+      },
+      {
+        "name": "Izabella Györfi",
+        "house": 18,
+        "suite": 504
+      },
+      {
+        "name": "Klings, Josefine",
+        "house": 18,
+        "suite": 504
+      },
+      {
+        "name": "Opitz, Judita",
+        "house": 4,
+        "suite": 305
+      },
+      {
+        "name": "Hahne, Sladjana",
+        "house": "Solåsen 5",
+        "suite": 301
+      },
+      {
+        "name": "Hahne Carl",
+        "house": "Solåsen 5",
+        "suite": 301
+      },
+      {
+        "name": "Reinhardt, Peter",
+        "house": "Solåsen 3",
+        "suite": 301
+      },
+      {
+        "name": "Reinhardt, Ulrike",
+        "house": "Solåsen 3",
+        "suite": 301
+      },
+      {
+        "name": "Höfer, Sarah",
+        "house": 7,
+        "suite": 204
+      },
+      {
+        "name": "Höfer, Achim",
+        "house": 7,
+        "suite": 204
+      },
+      {
+        "name": "Bosma, Wouter",
+        "house": 1,
+        "suite": 204
+      },
+      {
+        "name": "Bosma, Adina",
+        "house": 1,
+        "suite": 204
+      },
+      {
+        "name": "Jansen, Carolin",
+        "house": 24,
+        "suite": 317
+      },
+      {
+        "name": "Jansen, Magnar",
+        "house": 24,
+        "suite": 317
+      },
+      {
+        "name": "Olsen, Rebecca",
+        "house": "202e",
+        "suite": "202e"
+      },
+      {
+        "name": "Olsen, Vidar",
+        "house": "202e",
+        "suite": "202e"
+      },
+      {
+        "name": "Hauptmann, David",
+        "house": 18,
+        "suite": 610
+      },
+      {
+        "name": "Hauptmann, Claudia",
+        "house": 18,
+        "suite": 610
+      },
+      {
+        "name": "Samartinean, Emanuel",
+        "house": 3,
+        "suite": 517
+      },
+      {
+        "name": "Hadnagy, Deli",
+        "house": 3,
+        "suite": 517
+      },
+      {
+        "name": "Weißgerber, Cornelia",
+        "house": 1,
+        "suite": 434
+      },
+      {
+        "name": "Weißgerber, Thorsten",
+        "house": 1,
+        "suite": 434
+      },
+      {
+        "name": "zur Nieden, Anett",
+        "house": 22,
+        "suite": 314
+      },
+      {
+        "name": "Sawlanski, Marie",
+        "house": 22,
+        "suite": 314
+      },
+      {
+        "name": "Olthuis, Martijn",
+        "house": 4,
+        "suite": 302
+      },
+      {
+        "name": "Barnickel, Stephan",
+        "house": 4,
+        "suite": 302
+      },
+      {
+        "name": "Grimes, Philip",
+        "house": 4,
+        "suite": 302
+      },
+      {
+        "name": "Trautmann, Jutta",
+        "house": 22,
+        "suite": 504
+      },
+      {
+        "name": "Kalisch, Judy",
+        "house": 2,
+        "suite": 310
+      },
+      {
+        "name": "Heukelbach, Michael",
+        "house": "503c",
+        "suite": "503c"
+      },
+      {
+        "name": "Weißgerber, Simone",
+        "house": "609a",
+        "suite": "609a"
+      },
+      {
+        "name": "Winston, Grimes",
+        "house": "609e",
+        "suite": "609a"
+      },
+      {
+        "name": "Gulyas, Birgit",
+        "house": 22,
+        "suite": 203
+      },
+      {
+        "name": "Diestelmeier, Nils",
+        "house": 1,
+        "suite": 805
+      },
+      {
+        "name": "Füzi, Barni",
+        "house": 1,
+        "suite": 6
+      },
+      {
+        "name": "Füzi, Susann",
+        "house": 1,
+        "suite": 6
+      },
+      {
+        "name": "Baur, Dorle",
+        "house": 22,
+        "suite": 203
+      },
+      {
+        "name": "Opitz, Gerhard",
+        "house": "612b",
+        "suite": "612b"
+      },
+      {
+        "name": "Opitz, Anke",
+        "house": "612b",
+        "suite": "612b"
+      },
+      {
+        "name": "Fächner, Peter",
+        "house": "203a",
+        "suite": "203a"
+      },
+      {
+        "name": "Fächner, Tabea",
+        "house": "203a",
+        "suite": "203a"
+      },
+      {
+        "name": "Zürcher, Matthias",
+        "house": 2,
+        "suite": 319
+      },
+      {
+        "name": "Zürcher, Heike",
+        "house": 2,
+        "suite": 319
+      },
+      {
+        "name": "Grimes, Ruth",
+        "house": 3,
+        "suite": 309
+      },
+      {
+        "name": "Grimes, Gabriel",
+        "house": 3,
+        "suite": 309
+      },
+      {
+        "name": "Hauptmann, Astrid",
+        "house": 18,
+        "suite": 210
+      },
+      {
+        "name": "Hauptmann, Matthias",
+        "house": 18,
+        "suite": 210
+      },
+      {
+        "name": "Hauptmann, Debora",
+        "house": "608b",
+        "suite": "608b"
+      },
+      {
+        "name": "Feierabend, Ruth",
+        "house": 16,
+        "suite": 415
+      },
+      {
+        "name": "Feierabend, Daniel",
+        "house": 16,
+        "suite": 415
+      },
+      {
+        "name": "Klinghammer, Sieghard",
+        "house": 18,
+        "suite": 603
+      },
+      {
+        "name": "Ostrowitzki, Matthias",
+        "house": 3,
+        "suite": 425
+      },
+      {
+        "name": "Hauptmann, Ruth",
+        "house": "608b",
+        "suite": "608b"
+      },
+      {
+        "name": "Höfer, Hartmut",
+        "house": 12,
+        "suite": 302
+      },
+      {
+        "name": "Höfer, Susanne",
+        "house": 12,
+        "suite": 302
+      },
+      {
+        "name": "Baur, Benjamin",
+        "house": 1,
+        "suite": 215
+      },
+      {
+        "name": "Baur, Johannes",
+        "house": "600b",
+        "suite": "600b"
+      },
+      {
+        "name": "Habuš, Esther",
+        "house": "Solåsen 7",
+        "suite": 302
+      },
+      {
+        "name": "Erz, Micha",
+        "house": "Solåsen 3",
+        "suite": 104
+      },
+      {
+        "name": "Grimes, Claudia",
+        "house": 2,
+        "suite": 609
+      },
+      {
+        "name": "Opitz, Judith",
+        "house": 12,
+        "suite": 210
+      },
+      {
+        "name": "Opitz, Christian",
+        "house": 12,
+        "suite": 210
+      },
+      {
+        "name": "Opitz, Anja",
+        "house": 20,
+        "suite": 316
+      },
+      {
+        "name": "Corneliussen, Stian",
+        "house": 6,
+        "suite": 117
+      },
+      {
+        "name": "Corneliussen, Damaris",
+        "house": 6,
+        "suite": 117
+      },
+      {
+        "name": "Corneliussen, Silje",
+        "house": "603a",
+        "suite": "603a"
+      },
+      {
+        "name": "Hahne, Mike",
+        "house": 5,
+        "suite": 302
+      },
+      {
+        "name": "Baur, Christine",
+        "house": 1,
+        "suite": 416
+      },
+      {
+        "name": "Hahne, Sven",
+        "house": 5,
+        "suite": 302
+      },
+      {
+        "name": "Lehmann, Andreas",
+        "house": 5,
+        "suite": 302
+      },
+      {
+        "name": "Klinghammer, Arne",
+        "house": 18,
+        "suite": 603
+      },
+      {
+        "name": "Schmidt, Erika",
+        "house": 1,
+        "suite": 4
+      },
+      {
+        "name": "Sokac, Ruth",
+        "house": 4,
+        "suite": 206
+      },
+      {
+        "name": "Opitz, Daniel",
+        "house": 20,
+        "suite": 316
+      },
+      {
+        "name": "Kristensen, Tamara Helene",
+        "house": 20,
+        "suite": 605
+      },
+      {
+        "name": "Reinhardt, Heike",
+        "house": 12,
+        "suite": 220
+      },
+      {
+        "name": "Reinhardt, Petra",
+        "house": 12,
+        "suite": 220
+      },
+      {
+        "name": "Kulik, Heike",
+        "house": 22,
+        "suite": 203
+      },
+      {
+        "name": "Hauptmann, Karin",
+        "house": 8,
+        "suite": 203
+      },
+      {
+        "name": "Hauptmann, Klaus",
+        "house": 8,
+        "suite": 203
+      },
+      {
+        "name": "Gaigg, Damaris",
+        "house": 22,
+        "suite": 306
+      },
+      {
+        "name": "Gaigg, Gottfried",
+        "house": 22,
+        "suite": 306
+      },
+      {
+        "name": "Ostrowitzki, Marion",
+        "house": 3,
+        "suite": 425
+      },
+      {
+        "name": "Hercher, Björg",
+        "house": 3,
+        "suite": 213
+      },
+      {
+        "name": "Hahne, Carolin",
+        "house": 12,
+        "suite": 234
+      },
+      {
+        "name": "Opitz, Fabienne",
+        "house": 12,
+        "suite": 234
+      },
+      {
+        "name": "Höfer, Tina",
+        "house": 12,
+        "suite": 234
+      },
+      {
+        "name": "Grimes, Joyce",
+        "house": 12,
+        "suite": 234
+      },
+      {
+        "name": "Cristea, Maddy",
+        "house": 12,
+        "suite": 234
+      },
+      {
+        "name": "Weissgerber, Ingrid",
+        "house": 24,
+        "suite": 506
+      },
+      {
+        "name": "Bali, Marlene",
+        "house": 12,
+        "suite": 110
+      },
+      {
+        "name": "Bali, Fredi",
+        "house": 12,
+        "suite": 110
+      },
+      {
+        "name": "Gulyas, Ruth",
+        "house": 22,
+        "suite": 307
+      },
+      {
+        "name": "Grimes-Borch, Naomi",
+        "house": "Regattaveien 123",
+        "suite": 123
+      }
+    ]
+}
