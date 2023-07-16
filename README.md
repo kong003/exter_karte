@@ -12,7 +12,7 @@ herunterladen und unter /MapTiles auf FTP-Server hosten
 
 In der .env Datei die richtige Domain einfügen.
 
-
+Unter src/assets/db.json in der Array people die Personen einfügen.
 
 ### Compiles and hot-reloads for development
 ```
