@@ -33,7 +33,7 @@ npm run lint
 
 ## Für Schnobi Schneider
 <p>
-  <a href="https://www.paypal.me/Kongonaten">
+  <a href="https://www.paypal.me/Kongonauten">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
